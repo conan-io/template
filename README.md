@@ -7,13 +7,11 @@ A modern C++ project demonstrating cross-platform builds with Conan package mana
 
 ## 🚀 Features
 
-- **Modern C++17** codebase with trailing return types, `auto`, and `[[nodiscard]]`
+- **Modern C++17** codebase
 - **Cross-platform CI/CD** with GitHub Actions
 - **Multi-architecture builds** (x86_64 and armv8)
 - **Conan package management** for dependency management
 - **Google Test integration** for unit testing
-- **Compression utilities** using zlib
-- **Logging** with spdlog
 
 ## 📋 Prerequisites
 
